@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+}
+p {
+	font-size: 30px;
+	text-align: center;
+	justify-content: center;
+	margin: 0 auto;
+}
+.header {
+	background-color: rgb(113, 184, 184);
+	width: 100%;
+	height: 100px;
+	vertical-align: middle;
+	text-align:center;
+	line-height: 100px;
+}
+.sidebar {
+	background-color: #9dc3e6;
+	width: 20%;
+	height: 500px;
+	float: left;
+	line-height: 300px;
+}
+.konten {
+	background-color: #afafaf;
+	width: 80%;
+	height: 500px;
+	float: left;
+	line-height: 300px;
+	
+}
+.footer {
+	position: bottom;
+	background-color: #8497b0;
+	width: 100%;
+	height: 100px;
+	overflow: auto;
+	line-height:100px;
+}
